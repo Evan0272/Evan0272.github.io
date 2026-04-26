@@ -9,18 +9,18 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   <rights>All rights reserved 2026, Evan</rights>
   <title>魔龙周刊</title>
-  <updated>2026-04-22T13:23:23.234Z</updated>
+  <updated>2026-04-26T15:37:29.961Z</updated>
   <entry>
     <author>
       <name>Evan</name>
     </author>
-    <id>http://example.com/2026/04/22/hello-world/</id>
-    <link href="http://example.com/2026/04/22/hello-world/"/>
+    <id>http://example.com/2026/04/22/20260426/</id>
+    <link href="http://example.com/2026/04/22/20260426/"/>
     <published>2026-04-22T13:23:23.234Z</published>
     <summary>
-      <![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a>]]>
+      <![CDATA[<h2 id="Topic-1-n-广州行"><a href="#Topic-1-n-广州行" class="headerlink" title="Topic(1&#x2F;n) - 广州行"></a>Topic(1&#x2F;n) -]]>
     </summary>
-    <title>Hello World</title>
-    <updated>2026-04-22T13:23:23.234Z</updated>
+    <title>20260426周报</title>
+    <updated>2026-04-26T15:37:29.961Z</updated>
   </entry>
 </feed>
